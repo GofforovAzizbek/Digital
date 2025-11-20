@@ -699,6 +699,7 @@ footer {
 }
 
 .footer-socials__wrapper {
+  padding-top: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
